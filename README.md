@@ -1,11 +1,11 @@
 # Online_Resources
 
-#Free Certificates
-https://www.cybrary.it/free-content
-https://www.brainmeasures.com/courses/online/853/ethical-hacking-practice-test
-https://eccouncil.org/cybersecurity-exchange/ethical-hacking/free-ethical-hacking-courses/
-https://alison.com/course/diploma-in-ethical-hacking
+# Free Certificates
+https://www.cybrary.it/free-content<br>
+https://www.brainmeasures.com/courses/online/853/ethical-hacking-practice-test<br>
+https://eccouncil.org/cybersecurity-exchange/ethical-hacking/free-ethical-hacking-courses/<br>
+https://alison.com/course/diploma-in-ethical-hacking<br>
 
-#CTF's
-overthewire.org
-picoctf
+# CTF's
+overthewire.org<br>
+picoctf<br>
