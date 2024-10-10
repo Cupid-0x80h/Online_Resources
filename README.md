@@ -9,3 +9,8 @@ https://alison.com/course/diploma-in-ethical-hacking<br>
 # CTF's
 overthewire.org<br>
 picoctf<br>
+
+# Learning Platforms
+https://tryhackme.com/
+https://www.hackthebox.com/
+[https://www.linuxjourney.com/](https://linuxjourney.com/)
