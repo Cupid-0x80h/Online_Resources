@@ -11,6 +11,6 @@ overthewire.org<br>
 picoctf<br>
 
 # Learning Platforms
-https://tryhackme.com/
-https://www.hackthebox.com/
-[https://www.linuxjourney.com/](https://linuxjourney.com/)
+https://tryhackme.com/<br>
+https://www.hackthebox.com/<br>
+[https://www.linuxjourney.com/](https://linuxjourney.com/)<br>
